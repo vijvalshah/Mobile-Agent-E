@@ -74,15 +74,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Citation
-
-If you use this code in your research, please cite:
-```
-@article{wang2024mobile,
-  title={Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks},
-  author={Wang, Zhenhailong and Xu, Haiyang and Wang, Junyang and Zhang, Xi and Yan, Ming and Zhang, Ji and Huang, Fei and Ji, Heng},
-  journal={arXiv preprint arXiv:2501.11733},
-  year={2024}
-}
-```
